@@ -18,6 +18,18 @@ a:hover {
   text-decoration: none;
 }
 
+.ml-2{
+  color: red;
+}
+
+.border-danger{
+  color: darkred;
+}
+
+.fa{
+  color: red;
+}
+
 h1, h2, h3, h4, h5 {
   color: red;
   font-family: "Playfair Display", times, serif;
