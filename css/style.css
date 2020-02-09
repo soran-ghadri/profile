@@ -23,6 +23,14 @@ h1, h2, h3, h4, h5 {
   font-family: "Playfair Display", times, serif;
 }
 
+#profilephoto{
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  background-image: url("./");
+  background-size: cover;
+}
+
 .btn, .form-control {
   outline: none;
   -webkit-box-shadow: none !important;
