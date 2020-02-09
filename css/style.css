@@ -86,12 +86,12 @@ textarea.form-control {
 
 .btn.btn-outline-white {
   border-width: 2px;
-  border-color: #fff;
-  color: #fff;
+  border-color: darkred;
+  color: darkred;
 }
 
 .btn.btn-outline-white:hover, .btn.btn-outline-white:focus {
-  background: #fff;
+  background: darkred;
   color: darkred;
   border-width: 2px;
 }
@@ -158,7 +158,7 @@ header .navbar .nav-link {
 }
 
 header .navbar .nav-link.active {
-  color: #fff;
+  color: darkred;
 }
 
 header .navbar .dropdown-menu {
@@ -180,7 +180,7 @@ header .navbar .dropdown-menu:before {
   width: 0;
   position: absolute;
   pointer-events: none;
-  border-bottom-color: #fff;
+  border-bottom-color: darkred;
   border-width: 7px;
 }
 
@@ -491,7 +491,7 @@ main {
 }
 
 .half > div.bg.campmeeting h2 {
-  color: #fff;
+  color: darkred;
 }
 
 @media (max-width: 991px) {
@@ -513,12 +513,12 @@ main {
 
 .event-list-item {
   display: table;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid darkred;
   width: 100%;
 }
 
 .event-list-item.first {
-  border-top: 1px solid #ccc;
+  border-top: 1px solid darkred;
 }
 
 .event-list-item p, .event-list-item span {
@@ -530,9 +530,9 @@ main {
 }
 
 .event-list-item .date {
-  border-right: 1px solid #ccc;
+  border-right: 1px solid darkred;
   text-transform: uppercase;
-  color: #b3b3b3;
+  color: red;
 }
 
 .event-list-item .more {
@@ -561,7 +561,7 @@ main {
   padding: 2px 15px;
   display: inline-block;
   font-size: 11px;
-  color: #fff;
+  color: kred;
   text-transform: uppercase;
   letter-spacing: .2em;
   margin-bottom: 15px;
@@ -573,7 +573,7 @@ main {
 }
 
 .upcoming-events-highlight h2 a {
-  color: #fff;
+  color: darkred;
 }
 
 .upcoming-events-highlight .events-meta {
@@ -590,7 +590,7 @@ main {
   text-align: center;
   font-size: 30px;
   font-family: "Playfair Display", times, serif;
-  color: #fff;
+  color: red;
   line-height: 1;
 }
 
@@ -612,7 +612,7 @@ main {
   padding: 2px 15px;
   display: inline-block;
   font-size: 11px;
-  color: #fff;
+  color: darkred;
   text-transform: uppercase;
   letter-spacing: .2em;
   margin-bottom: 15px;
@@ -637,7 +637,7 @@ main {
 }
 
 .sermon h2 a {
-  color: #fff;
+  color: darkred;
 }
 
 .sermon h2 a:hover {
@@ -651,7 +651,7 @@ main {
 }
 
 .sermon .sermon-meta a {
-  color: #fff;
+  color: darkred;
 }
 
 .sermon .sermon-meta a:hover {
@@ -767,7 +767,7 @@ main {
 }
 
 .owl-carousel .owl-dots .owl-dot.active {
-  background: #fff;
+  background: darkred;
 }
 
 .owl-carousel.testimony-slider .owl-item {
@@ -796,7 +796,7 @@ main {
   height: 10px;
   margin: 5px;
   border-radius: 50%;
-  background: #cccccc;
+  background: darkred;
 }
 
 .owl-carousel.testimony-slider .owl-dots .owl-dot.active {
@@ -813,7 +813,7 @@ main {
 }
 
 .owl-carousel.home-slider .btn-link {
-  color: #fff;
+  color: darkred;
 }
 
 .owl-carousel.home-slider .owl-nav {
@@ -825,7 +825,7 @@ main {
 }
 
 .owl-carousel.home-slider .owl-nav button {
-  color: #fff;
+  color: darkred;
 }
 
 .owl-carousel.home-slider:focus .owl-nav, .owl-carousel.home-slider:hover .owl-nav {
@@ -853,19 +853,19 @@ main {
 }
 
 .owl-carousel.home-slider .slider-item .slider-text {
-  color: #fff;
+  color: darkred;
   height: calc(100vh - 217px);
   min-height: 700px;
 }
 
 .owl-carousel.home-slider .slider-item .slider-text .child-name {
   font-size: 40px;
-  color: #fff;
+  color: darkred;
 }
 
 .owl-carousel.home-slider .slider-item .slider-text h1 {
   font-size: 40px;
-  color: #fff;
+  color: darkred;
   line-height: 1.2;
   font-weight: 300 !important;
 }
@@ -880,7 +880,7 @@ main {
   font-size: 20px;
   line-height: 1.5;
   font-weight: 300;
-  color: white;
+  color: darkred;
 }
 
 .owl-carousel.home-slider.inner-page .slider-item {
@@ -889,7 +889,7 @@ main {
 }
 
 .owl-carousel.home-slider.inner-page .slider-item .slider-text {
-  color: #fff;
+  color: darkred;
   height: calc(50vh - 117px);
   min-height: 550px;
 }
@@ -914,11 +914,11 @@ main {
 }
 
 .owl-carousel.home-slider .owl-dots .owl-dot.active {
-  border: 2px solid white;
+  border: 2px solid darkred;
 }
 
 .owl-carousel.home-slider .owl-dots .owl-dot.active span {
-  background: white;
+  background: darkred;
 }
 
 .owl-carousel.major-caousel .owl-stage-outer {
@@ -939,7 +939,7 @@ main {
 }
 
 .owl-carousel.major-caousel .owl-nav .owl-prev.disabled, .owl-carousel.major-caousel .owl-nav .owl-next.disabled {
-  color: #dee2e6;
+  color: darkred;
 }
 
 .owl-carousel.major-caousel .owl-nav .owl-prev {
@@ -965,7 +965,7 @@ main {
 .owl-custom-nav .owl-custom-next {
   padding: 10px;
   font-size: 30px;
-  background: #ccc;
+  background: darkred;
   line-height: 0;
   width: 60px;
   text-align: center;
@@ -1016,13 +1016,13 @@ main {
 }
 
 .cover_1 .sub-heading {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 0, 0, 0.7);
   font-size: 22px;
 }
 
 .cover_1 .heading {
   font-size: 50px;
-  color: white;
+  color: #ff0000;
   font-weight: 300;
 }
 
@@ -1093,7 +1093,7 @@ main {
 }
 
 .media-custom {
-  background: #fff;
+  background: darkred;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
@@ -1103,7 +1103,7 @@ main {
 }
 
 .media-custom .meta-post {
-  color: #ced4da;
+  color: darkred;
   font-size: 13px;
   text-transform: uppercase;
 }
@@ -1115,7 +1115,7 @@ main {
 }
 
 .media-custom .meta-chat {
-  color: #ced4da;
+  color: darkred;
 }
 
 .media-custom .meta-chat:hover {
@@ -1273,7 +1273,7 @@ main {
   z-index: 4;
   top: 50%;
   font-size: 30px;
-  color: #fff;
+  color: darkred;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -1289,7 +1289,7 @@ main {
   position: absolute;
   bottom: -20px;
   left: 0;
-  color: #fff;
+  color: darkred;
   font-size: 18px;
   -webkit-transition: .5s all ease;
   -o-transition: .5s all ease;
@@ -1343,7 +1343,7 @@ main {
 }
 
 .border-t {
-  border-top: 1px solid #f8f9fa;
+  border-top: 1px solid darkred;
 }
 
 .copyright {
